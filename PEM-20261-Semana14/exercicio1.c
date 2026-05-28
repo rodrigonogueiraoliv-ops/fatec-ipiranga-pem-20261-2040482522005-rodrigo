@@ -1,3 +1,11 @@
+/*
+ * Nome: Rodrigo Nogueira de Oliveira
+ * RA: 2040482522005
+ * Disciplina: Programacao Estruturada e Modular
+ * Professor: Carlos Verissimo
+ * Data: 29/05/2026
+ * Exercício: 01 - Calculadora de Media Ponderada
+ */
 #include <stdio.h>
 
 int main(void) {
